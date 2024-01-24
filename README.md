@@ -74,8 +74,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/sakki247/ddos/
-cd ddos/
+git clone https://github.com/anonsek/DDOS.git
+cd DDOS/
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
