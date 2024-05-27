@@ -753,12 +753,12 @@ CLEAR   ► CLEAR TERMINAL
 def login():
     clear()
     user = "admin"
-    passwd = "admin"
+    passwd = "sakki"
     username = input("⚡ Username: ")
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
         print("")
-        print("⚡ Haizzz, you're so cute...")
+        print("⚡ PAGAL, PassWORD THEEK LGAO")
         sys.exit(1)
     elif username == user and password == passwd:
         print("⚡ Welcome to Sakki C2!")
