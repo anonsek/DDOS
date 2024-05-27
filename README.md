@@ -10,16 +10,8 @@
 
  </div>
  
- ## Logs</br>
- - NEW OVH-BEAM METHODS!
- - Hi all, there are fools scam tool github for 20usd
-- Image scammer:
-https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
- 
+ </br>
 
-# README ♥️
-Thank you for using, please help me press a star button, thank you very much.<br>
-One star = continuously updating multiple methods
 
 # Info
 - [x] Open Source
