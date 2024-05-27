@@ -61,6 +61,7 @@ yum install nodejs -y
 yum install npm -y
 
 Debain, Ubuntu:
+sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install git -y
 sudo apt-get install golang -y
 sudo apt-get install perl -y
