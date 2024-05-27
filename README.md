@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 DDOS: Release v1.4 - Free DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -12,8 +12,7 @@
 > Terminal only accepts ANSI color.<br>
 > Username: admin<br>
 > Password: sakki<br>
-<p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
- 
+
 ## Language</br>
 
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
