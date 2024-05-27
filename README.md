@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 DDOS TOOL 🚀
+# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -12,8 +12,33 @@
 > Terminal only accepts ANSI color.<br>
 > Username: admin<br>
 > Password: sakki<br>
-</p>
+<p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
+## Language</br>
+
+ <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+ </div>
+ 
+ ## Logs</br>
+ - NEW OVH-BEAM METHODS!
+ - Hi all, there are fools scam tool github for 20usd
+- Image scammer:
+https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
+ 
+## Screenshot
+![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
+
+# Tree
+* [Read now pls](#README)
+* [Info](#Info)
+* [Setup](#Setup)
+* [Credits](#Credits)
+* [T.O.S](#TOS)
+* [Contact](#Contact)
+
+# README ♥️
+Thank you for using, please help me press a star button, thank you very much.<br>
+One star = continuously updating multiple methods
 
 # Info
 - [x] Open Source
@@ -36,7 +61,7 @@ yum install nodejs -y
 yum install npm -y
 
 Debain, Ubuntu:
-sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install git -y
 sudo apt-get install golang -y
 sudo apt-get install perl -y
@@ -50,7 +75,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/anonsek/DDOS.git
+git clone https://github.com/anonsek/ddos
 cd DDOS/
 npm i requests
 npm i https-proxy-agent
@@ -65,10 +90,10 @@ npm i randomstring
 npm i cluster
 npm i cloudflare-bypasser
 pip3 install -r requirements.txt
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
-chmod 777 *
+sudo chmod 777 *
 python3 c2.py
 ```
 
@@ -80,5 +105,7 @@ the creator is not responsible for the damage caused by the attacks.
 remember: you are responsible for the attacks since this tool was created for educational purposes
 ```
 
-
+# CONTACT:
+```sh
+03470019309
 ```
