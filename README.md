@@ -11,8 +11,8 @@
 
 > Terminal only accepts ANSI color.<br>
 > Username: admin<br>
-> Password: admin<br>
-a></p>
+> Password: sakki<br>
+</p>
  
 ## Language</br>
 
